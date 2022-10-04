@@ -14,9 +14,9 @@ The second major hurdle was writing the `for loop` to actually build out the pas
 
 I am pleased with the final product, though I think I would have prefered the password parameters to be expressed as checkboxes rather than pop up windows. 
 
-![Password Generator Website Preview](/assets/webapp-preview.jpg)
-
 [Password Generator Website](https://zberkley88.github.io/password-generator-challenge/)
+
+![Password Generator Website Preview](/assets/webapp-preview.jpg)
 
 ## Installation
 
